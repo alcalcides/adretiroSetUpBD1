@@ -1,0 +1,9 @@
+input/*
+!input/serversSubscribedForExample.config
+!input/peopleToInsert/
+
+input/peopleToInsert/*
+!input/peopleToInsert/forExample.json
+
+log/*
+!log/.gitkeep
